@@ -56,9 +56,6 @@ An ultrasonic sensor measures distances to the central structure, and an edge-co
 4. **Run**: Deploy the code on the robot and place it on the path. 🚗
 5. **Shape Detection**: Ensure the central structure is within ultrasonic sensor range.
 
-## 📸 Screenshots
-*(Add screenshots of your robot or block diagrams here, if available)*
-
 ## 🙌 Contributing
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit pull requests. For collaboration, contact the group members via GitHub. 🤝
 
